@@ -7,8 +7,9 @@
   <li>html</li>
   <li>css</li>
 </ul>
+
 <hr>
-<h3>while studying langage</h3><br>
+<h3>while studying langage</h3>
 <ul>
   <li>Python</li>
   <li>go lang</li>
