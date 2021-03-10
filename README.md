@@ -1,6 +1,8 @@
-while studying langage
-Python
-go lang
+<h2>while studying langage</h2><br>
+<ul>
+  <li>Python</li>
+  <li>go lang</li>
+</ul>
 
 
 <!--
