@@ -1,7 +1,14 @@
 <h1>My Profile</h1>
 <hr>
-<span></span>
-<h2>while studying langage</h2><br>
+<h3>Language to write</h3>
+<ul>
+  <li>Google Apps Script</li>
+  <li>Javascript</li>
+  <li>html</li>
+  <li>css</li>
+</ul>
+<hr>
+<h3>while studying langage</h3><br>
 <ul>
   <li>Python</li>
   <li>go lang</li>
